@@ -2,7 +2,7 @@ const axios = require("axios");
 const fs = require("fs-extra");
 const path = require("path");
 
-const owners = [""];
+const owners = ["61550623121139"];
 const apiBase = "https://neoaz.is-a.dev/api/paste";
 
 module.exports = {
